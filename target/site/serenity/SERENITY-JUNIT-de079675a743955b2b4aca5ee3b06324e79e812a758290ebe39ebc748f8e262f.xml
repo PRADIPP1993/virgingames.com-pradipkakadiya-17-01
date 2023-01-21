@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Testing data features on virgingames Application" skipped="0" tests="2" time="7.64" timestamp="2023-01-19T18:26:30.761Z[Europe/London]"><testcase name="Check if the virgingames application can be accessed by users"/><testcase name="verify data"/></testsuite>

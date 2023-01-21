@@ -1,0 +1,6 @@
+com\virgingames\constants\path.class
+com\virgingames\steps\DataSteps.class
+com\virgingames\utils\TestUtils.class
+com\virgingames\constants\Endpoints.class
+com\virgingames\utils\PropertyReader.class
+com\virgingames\model\DataPojo.class
